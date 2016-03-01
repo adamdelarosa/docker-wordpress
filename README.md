@@ -1,1 +1,7 @@
-# docker-wordpress
+# Docker Compose: wordpress
+
+* Wordpress
+ 
+* MariaDB
+
+* PHPMyAdmin
